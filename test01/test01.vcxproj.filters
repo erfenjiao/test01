@@ -15,7 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="解救小哈.cpp">
+    <None Include="2.md">
+      <Filter>源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="找筷子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
