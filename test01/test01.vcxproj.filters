@@ -20,7 +20,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="找筷子.cpp">
+    <ClCompile Include="银行排队服务模拟.md">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
