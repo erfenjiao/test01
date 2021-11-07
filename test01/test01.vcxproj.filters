@@ -15,12 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="2.md">
-      <Filter>源文件</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="银行排队服务模拟.md">
+    <ClCompile Include="删除循环链表中已知节点的前驱.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
